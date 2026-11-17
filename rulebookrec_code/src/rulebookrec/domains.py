@@ -1,4 +1,4 @@
-"""Fig. 10 meta-schemas; they project semantic ITEM features and never rank."""
+"""Domain-specific ITEM feature dimensions used by the prompt templates."""
 
 from __future__ import annotations
 
